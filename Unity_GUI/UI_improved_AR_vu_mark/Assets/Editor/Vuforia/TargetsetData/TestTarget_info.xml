@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-06-26 16:27:05" name="Nutribon" targetId="c129c27c451545099e174e724d493a9b" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-06-26 16:17:59" name="Toortitzi" targetId="392f8d667f9f41ef9e2eefd9fab4b4e6" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-06-26 11:11:28" name="Snickers" targetId="42e455c0c314477190237dc850eb1485" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-06-25 13:03:56" name="Knoppers" targetId="93717285b12343c4aa1a021e2dfeea05" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-06-22 13:25:59" name="duhnill" targetId="8ad06955a5f04067ae0b8b3d97dcbf7e" version="2.0" />
+  </TargetSet>
+</QCARInfo>
